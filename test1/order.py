@@ -3,10 +3,10 @@
 max_amount = 5000_0000
 
 def create_order():
-    print('创建订单')
+    print('create_order')
 
 def cancel_order():
-    print('关闭订单')
+    print('cancel_order')
 
 def info():
     print('order info')
