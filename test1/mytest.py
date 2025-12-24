@@ -12,7 +12,7 @@
 # pay.alipay_pay()
 # pay.wechat_pay()
 # pay.info()
-#
+##############################
 # import order as o
 # import pay as p
 #
@@ -26,7 +26,7 @@
 # p.wechat_pay()
 # p.info()
 #
-
+#############################
 #
 # from order import max_amount, create_order, cancel_order, info
 # from pay import timeout, wechat_pay, alipay_pay, info
@@ -43,7 +43,7 @@
 # info()
 
 
-
+#############################
 
 # from order import  info as o_info
 # from pay import info as p_info
